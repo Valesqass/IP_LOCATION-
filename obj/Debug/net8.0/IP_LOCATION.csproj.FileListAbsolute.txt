@@ -1,0 +1,17 @@
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\bin\Debug\net8.0\IP_LOCATION.exe
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\bin\Debug\net8.0\IP_LOCATION.deps.json
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\bin\Debug\net8.0\IP_LOCATION.runtimeconfig.json
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\bin\Debug\net8.0\IP_LOCATION.dll
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\bin\Debug\net8.0\IP_LOCATION.pdb
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\IP_LOCATION.csproj.AssemblyReference.cache
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\IP_LOCATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\IP_LOCATION.AssemblyInfoInputs.cache
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\IP_LOCATION.AssemblyInfo.cs
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\IP_LOCATION.csproj.CoreCompileInputs.cache
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\IP_LOCAT.A36089EA.Up2Date
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\IP_LOCATION.dll
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\refint\IP_LOCATION.dll
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\IP_LOCATION.pdb
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\IP_LOCATION.genruntimeconfig.cache
+C:\Users\lahlo\OneDrive\Documents\RoadToEliott\IP_LOCATION\obj\Debug\net8.0\ref\IP_LOCATION.dll
